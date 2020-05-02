@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/pixiv-test/static/js/main.bfe0ff3d.chunk.js",
+    "main.js.map": "/pixiv-test/static/js/main.bfe0ff3d.chunk.js.map",
+    "runtime~main.js": "/pixiv-test/static/js/runtime~main.a1118d3e.js",
+    "runtime~main.js.map": "/pixiv-test/static/js/runtime~main.a1118d3e.js.map",
+    "static/js/2.1dc3432e.chunk.js": "/pixiv-test/static/js/2.1dc3432e.chunk.js",
+    "static/js/2.1dc3432e.chunk.js.map": "/pixiv-test/static/js/2.1dc3432e.chunk.js.map",
+    "index.html": "/pixiv-test/index.html",
+    "precache-manifest.6e636af3e570fda38bf2003cf7a66453.js": "/pixiv-test/precache-manifest.6e636af3e570fda38bf2003cf7a66453.js",
+    "service-worker.js": "/pixiv-test/service-worker.js"
+  }
+}
